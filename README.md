@@ -8,3 +8,5 @@ Each assignments are beneficial for learning procedures and issue handling in de
 Happy learning !
 
 Sleeba Paul
+Machine Learning Engineer
+Perleybrook Labs LLC
